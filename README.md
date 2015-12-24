@@ -2,7 +2,7 @@
 
 The goal here is to have a hubot instance that recognizes a [Magic The Gathering Card](http://magiccards.info/) and displays the listed card. For the first iteration, we'd like to recognize the following commands:
 
-    /card <card_name> - where <card_name> is the fully qualified name of the Magic card in questions. (i.e. [Gideon Jura](http://magiccards.info/query?q=Gideon+Jura) or [Sol Ring](http://magiccards.info/query?q=Sol+Ring)
+    /card <card_name> - where <card_name> is the fully qualified name of the Magic card in questions.
 
 The remaining text in this readme is the auto-generated hubot help text.
 
